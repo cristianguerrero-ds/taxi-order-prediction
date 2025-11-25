@@ -1,0 +1,28 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de configuración de macOS y Windows
+.DS_Store
+Thumbs.db
+
+# Variables de entorno
+.env
+*.env
+
+# Archivos de logs
+*.log
+
+# Carpetas de VS Code
+.vscode/
